@@ -1,2 +1,2 @@
-# natural_language_processing
+# Natural Language Processingg
 Spam and Ham Detection with Natural Language Processing (NLP)
